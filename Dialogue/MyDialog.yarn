@@ -1,0 +1,50 @@
+﻿title: Cube
+tags:
+---
+
+Cube: Bienvenue dans Eternal Valley. Dans ce jeu, vous chercherez la cause de la dégradation de cette montagne. <br><br> (E pour fermer)
+
+===
+
+title: Paper1
+tags:
+---
+
+Paper1: Cette terre à la nature auparavant verdoyante était source de floraison. Le passage de l’Homme et son insatiable quête de technologie est la cause de sa dégradation. <br><br> (E) Suivant
+Paper1: Collectez les objets de technologie ayant appartenue à une époque passée. <br><br> (E) Fermer
+
+===
+
+title: Paper2
+tags:
+---
+
+Paper2: Il ne reste plus que des cendres, des arbres morts et leurs branches fendues pour peupler cette terre noircie. Elle est jonchée d’appareils électroniques, éparpillés dans la forêt, ou du moins, ce qu’il en reste.
+
+===
+
+title: Paper3
+tags:
+---
+
+Paper3: La montagne est la seule trace intacte du don de la nature, rejoignez-là et gravissez là jusqu’au papillon blanc.
+
+===
+
+title: papdiag
+tags:
+---
+
+papdiag: Connaissez-vous l'effet papillon ? 
+papdiag: Chacuns de vos choix et actions ont une conséquence, et chacun en entraîne d'autres.
+papdiag: Celui de l'Homme a été de négliger sa propre planète.
+
+===
+
+title: oursdiag
+tags:
+---
+
+oursdiag: La montagne est la seule trace intacte du don de la nature, rejoignez-là et gravissez là jusqu’au papillon blanc.
+
+===
